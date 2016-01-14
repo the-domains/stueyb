@@ -23,7 +23,7 @@ color:
     - '#ededed'
     - '#4e4e4e'
   brandStrength: 0.22707421495579183
-  lightness: 0.4402992019895464
-  saturation: 0.5255883389618248
-  rhythmicContrast: 0.9315447330009192
+  lightness: 0.4375
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
